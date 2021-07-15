@@ -1,0 +1,25 @@
+.redes{
+ background-color:azure;
+}
+.img{
+    height: 35px;
+    width: 35px;
+}
+.titulos{
+    color: gray;
+    text-align: center;
+}
+.texto{
+    color: gray;
+    text-align: center;
+}
+.btn-danger {
+    background: #e31c79;
+    border-radius: 20px;
+    color: #fff;
+    border: none;
+}
+.resultados{
+    display: flexbox;
+    align-items: center;
+}
